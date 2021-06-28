@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#imagedp{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 60px; */
+    background-color: #e3e3e3;
+    padding-top: 70px;
+    height: 180px;
+    
+}
+
+.navbarmain{
+    display: flex;
+    justify-content: center;
+}
+
+
+.intro{
+    
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    padding-top: 120px;
+    
+    
+    
+    
+}
+
+.intro h2{
+    font-family: sans-serif;
+    font-size: 60.8px;
+    margin: 0 0 8px;
+    padding: 0 0 60.8px;
+    padding: 0px;
+    padding-bottom: 15px;
+    color: #646464;
+}
+
+.button button{
+    text-decoration: none;
+    border-radius: 23px;
+    border: none;
+    font-weight: 16px;
+    font-family: sans-serif;
+    font-size: 16px;
+    border: 1px solid #cc4b37;
+    color: #cc4b37;
+    padding: 12.8px 33.6px;
+    background: #ffffff;
+    
+
+
+
+    
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+
+}
+
+
+.intro h2 span{
+    font-size: 42.56px;
+    font-family: sans-serif;
+    background: #c8412b;
+    width: 50%;
+    font-weight:50;
+    margin-left: 4cm;
+    color: #ffffff;
+}
+
+
+
+.navbar{
+    background-color: #ffffff;
+    
+}
+
+
+.connections{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 4.99px;
+    
+
+    
+}
+
+.connections a i{
+    font-size: 34px;
+}
+
+
+.github, .linkedin{
+    padding: 5px 10px;
+    
+}
+
+.connections a{
+    text-decoration: none;
+    color: grey;
+}
+
+
+.main-navbar {
+    display: flex;
+    justify-content:space-between ;
+    border: 1.5px solid black;
+    background-color: grey;
+    height: 50px;
+    width: 100%;
+    
+}
+
+    
+    
+
+
+
+.rightnav {
+    display: flex;
+    
+    
+}
+
+.rightnav a{
+    text-decoration: none;
+    padding: 9px 15px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.main-navbar h1{
+    font-family: sans-serif;
+    padding: auto 15px;
+    font-weight: 400;
+    color: green;
+
+}
+
+
+.container-1{
+    background-color:#4C6D86;
+    
+    justify-content: center;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+
+.container2 ul{
+    list-style: none;
+    padding: 10px 150px;
+
+}
+
+.tophead{
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    color: #ffffff;
+    font: 31px;
+    margin-right: 60px;
+    font-size: 31px;
+    padding: 0 35px;
+}
+
+.tophead h4{
+    display: flex;
+}
+
+
+.container2 ul li{
+    color: #bbd2ff;
+    font-family: "Maven pro", sans-serif;
+    font-weight: 500;
+    list-style: none;
+    padding: 3px 0px;
+
+}
+
+.head h3{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 40px;
+    color: #ffffff;
+    margin: 0 0 28px;
+    
+}
+
+.container-1{
+    padding: 96px 64px 89.6px;
+}
+
+
+.icons{
+    display: flex;
+    width: 95%;
+    justify-content: space-around;
+}
+
+.icons i{
+    font-size: 50px;
+    color: rgb(224, 97, 24);
+    padding: 10px 0;
+}
+
